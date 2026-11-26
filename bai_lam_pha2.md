@@ -4,7 +4,7 @@
 - **Họ tên:**Tô Mạnh Hào
 - **Lớp:**CNTT1
 - **Link repository Pha2:**
-- **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**
+- **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**ChatGPT
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
 
